@@ -31,7 +31,7 @@ https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-admin.html (choose version)
 
 ####Boot Firewall VM
 
-![Image](images/BOOT.PNG)
+![Image](images/boot1.PNG)
 
 ####Login with admin/admin username password
 
